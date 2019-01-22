@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+}
+
+h2 {
+  color: yellow;
+}
+h3{
+    color:black;
+}
+
+p{
+    color:blue;
+}
+h2{
+    color:green;font-weight:bold;
+}
